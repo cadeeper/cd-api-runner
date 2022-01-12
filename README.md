@@ -2,9 +2,9 @@
 A Idea plugin that enables you to test your HTTP or Dubbo API quickly and easily. For developers to manually validate APIs without additional test code.
 
 ## Features
-#### HTTP/Dubbo Client: Simple way to do HTTP/Dubbo requests.
-#### Generate Tests In One Click: Automatically generate request from your source code for visual interaction, and easier to use. Supported framework: Dubbo、SpringMVC.
-#### Favourite And History Collections: Remember your every reqeust, save any requests for execution at any time.
+- HTTP/Dubbo Client: Simple way to do HTTP/Dubbo requests.
+- Generate Tests In One Click: Automatically generate request from your source code for visual interaction, and easier to use. Supported framework: *Dubbo*、*SpringMVC*.
+- Favourite And History Collections: Remember your every reqeust, save any requests for execution at any time.
 
 ## Quick Start
 1. Right-click on one method that your want to test.
