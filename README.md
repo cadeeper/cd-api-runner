@@ -1,5 +1,5 @@
-api-runner
-A light tool that enables you to test your HTTP or Dubbo API quickly and easily. For developers to manually validate APIs without additional test code.
+## api-runner  
+A Idea plugin that enables you to test your HTTP or Dubbo API quickly and easily. For developers to manually validate APIs without additional test code.
 
 ## Features
 #### HTTP/Dubbo Client: Simple way to do HTTP/Dubbo requests.
