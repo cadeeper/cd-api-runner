@@ -1,6 +1,6 @@
 ## api-runner  
-A Idea plugin that enables you to test your HTTP or Dubbo API quickly and easily. For developers to manually validate APIs without additional test code.
-
+A Idea plugin that enables you to test your HTTP or Dubbo API quickly and easily. For developers to manually validate APIs without additional test code.  
+#### plugin page: https://plugins.jetbrains.com/plugin/18357-api-runner
 ## Features
 - HTTP/Dubbo Client: Simple way to do HTTP/Dubbo requests.
 - Generate Tests In One Click: Automatically generate request from your source code for visual interaction, and easier to use. Supported framework: *Dubbo*、*SpringMVC*.
