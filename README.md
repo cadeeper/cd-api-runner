@@ -11,8 +11,14 @@ A Idea plugin that enables you to test your HTTP or Dubbo API quickly and easily
 2. Select <b>Request As...</b>, choose Dubbo or HTTP request.
 3. Change the request info in the ToolWindow if needed.
 4. Click the Run button, then you can see the response in the right console.
+![init](https://github.com/cadeeper/cd-api-runner/blob/main/init.jpg?raw=true)
+![choose](https://github.com/cadeeper/cd-api-runner/blob/main/choose.jpg?raw=true)
+![call](https://github.com/cadeeper/cd-api-runner/blob/main/call.jpg?raw=true)
+![saveApi](https://github.com/cadeeper/cd-api-runner/blob/main/saveApi.jpg?raw=true)
+![history](https://github.com/cadeeper/cd-api-runner/blob/main/history.jpg?raw=true)
+![customHeader](https://github.com/cadeeper/cd-api-runner/blob/main/customHeader.jpg?raw=true)
 
 ## Other
 ### About Parser
-- SpringMVC parser only support simple Annotation now: **@RequestMapping**, **@*Mapping**, **@RequestBody**.
+- SpringMVC parser only support simple Annotation now:  **@RequestMapping**, **@\*Mapping**, **@RequestBody**.
 - The parser's support for complex parameters is not complete enough. Like: **Multi-Level nested classes**, **Unusual Data Types**
